@@ -1,7 +1,7 @@
 const CACHE_NAME = 'iuranku-v1';
 const assets = [
   './',
-  'Iuran.html',
+  'index.html',
   'manifest.json'
 ];
 
